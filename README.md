@@ -4,11 +4,11 @@
 
 The goal of creating this project is to get myself comfortable with creating and working with things that I have never done before and get myself accomodated with the process of referring documentation and StackOverflow for help.
 
-## What I created 
+## What did I create
 
 I created a beautiful egg timer app to boil eggs to perfection depending on how one prefers their eggs.
 
-## What I learned
+## What did I learn
 
 * Swift Collection types - Dictionaries
 * The Swift Timer API
